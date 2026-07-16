@@ -1,0 +1,4 @@
+cryptography>=42,<46
+Pillow>=10,<12
+pylibdmtx==0.1.10
+python-pkcs11>=0.7,<0.9
