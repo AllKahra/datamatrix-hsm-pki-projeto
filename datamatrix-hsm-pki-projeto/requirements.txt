@@ -1,0 +1,4 @@
+cryptography
+Pillow
+pylibdmtx==0.1.10
+python-pkcs11
